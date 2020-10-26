@@ -1,0 +1,14 @@
+footer{
+    background: #0F0F10;
+ 
+}
+.list{
+    list-style:none;
+    margin-top: 3rem;
+}
+.list li{
+   margin: 15px 0px;
+}
+.list li a{
+   color: white;
+}
